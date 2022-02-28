@@ -18,7 +18,7 @@
     <a href="http://www.eicaa.eu"><b>Docs</b></a>
 </p>
 
-<div align="center">
+
 
 ### Measure entreprenuerial competences at individual and aggregated levels.
 
@@ -28,7 +28,6 @@ By assessing entrepreneurial competencies, learning activities or training oppor
 
 - Create survey --> Collect participant data --> Create rerports
 
-</div>
 
 ## Features:
 
