@@ -18,13 +18,15 @@
     <a href="http://www.eicaa.eu"><b>Docs</b></a>
 </p>
 
+<div align="center">
+
 ### Measure entreprenuerial competences at individual and aggregated levels.
 
 Use this tool for the assessment and development of entrepreneurial competences. This will enable universities, companies and other organisations to carry out profiling and monitoring of entrepreneurial competences (e.g. among students or employees). An essential conceptual basis for this is the [Entrepreneurship Competence Framework](https://ec.europa.eu/social/main.jsp?catId=1317&langId=en), which was developed by the Joint Research Centre of the European Commission.
 
 By assessing entrepreneurial competencies, learning activities or training opportunities can be used in a more targeted way to strengthen entrepreneurial thinking and action. Suitable teaching and training materials to promote entrepreneurial competences are also being developed by the EICAA consortium. A selection of these materials – depending on the respective assessment result – will be automatically suggested to the survey participants to improve upon specific entrepreneurial competence areas.
 
-create survey --> collect participant data --> create rerports
+- Create survey --> Collect participant data --> Create rerports
 
 </div>
 
