@@ -1,7 +1,10 @@
 <h1 align="center">
         <a target="_blank" href="https://eicaa.eu"><img align="center" style="max-width:300px;" src="/assets/logo.png"> </a>
 </h1>
-<h4 align="center"> Funded by Ersasmus+ 🇪🇺🇪</h4>
+<h1 align="center">
+        Entrepreneurial and Intrapreneurial Competences Assessment Alliance
+</h1>
+<h4 align="center"> Funded by Ersasmus+ 🇪🇺</h4>
 
 <p align="center">Open Source measurement tool for entrepreneurial and intrapreneurial competences in Higher Education and Corporate environments.</p>
 
