@@ -38,3 +38,13 @@ By assessing entrepreneurial competencies, learning activities or training oppor
 ## Demo
 
 Play with our [demo app](https://eicaa.eu)!
+
+
+## Docs
+
+Have a question about a feature? Or maybe fancy some light reading? Head on over to
+our [EICAA documentation](https://eicaa.eu/) to check out some tutorials, reference docs, and more.
+
+## Reporting bugs and feature requests
+
+Want to report a bug or request a feature? Open an [issue](https://github.com/eicaa/assessment-tool/issues/new/choose).
